@@ -1,5 +1,5 @@
 # Discovery
-[Design Doc](/dist/docs/designDoc.md) | Discovery | [Exploration](/dist/docs/exploration.md) | [Go to market](/dist/docs/goToMarket.md)
+[Design Doc](/designDoc.md) | Discovery | [Exploration](/exploration.md) | [Go to market](/goToMarket.md)
   
 ---
 ## Project tracking
