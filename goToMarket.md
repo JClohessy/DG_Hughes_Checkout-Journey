@@ -44,4 +44,4 @@ ${recommendations}
 ${nextVersion}
 
 ---
-Finally update and share ouot the [design doc](/dist/docs/designDoc.md)
+Finally update and share out the [design doc](/designDoc.md)
