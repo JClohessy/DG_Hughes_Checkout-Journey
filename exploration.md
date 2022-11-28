@@ -105,4 +105,4 @@ How will the insights be used from this study?
 - Concept 3 - address and email need to be ticked for user to continue to warranty purchase site. Can info be transferred over?
 
 ---
-Next is [go-to-market](/dist/docs/goToMarket.md)
+Next is [go-to-market](/goToMarket.md)
