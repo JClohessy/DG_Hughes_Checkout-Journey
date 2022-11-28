@@ -79,7 +79,8 @@ Scope your users' needs/problems [like this](https://www.uxpin.com/studio/blog/f
 | BC | 24/11/22 | Trust that company isn't going to go bust, or is underwritten | The journey makes clear to the user how secure their warranty is |
 |Hughes Assumptive| 24/11/22 | Don't want warranty to interfere with user purchasing desired product | The journey doesn't obstruct the user in their purchase of the desired item(s) |
 |JC| 28/11/22 | How do we stop users closing window after purchase before continuing to warranty | The journey shows the user there is another task to complete after the product purchase |
-<br>
+
+
 ---
 ### Sorted needs
 | The journey is easy | The journey is trustworthy | The journey is transparent | The journey explains the product |
@@ -101,4 +102,4 @@ Scope your users' needs/problems [like this](https://www.uxpin.com/studio/blog/f
 In what ways might we help Hughes users feel informed, secure and untroubled, in order to purchase their product & purchase a warranty?
   
 ---
-Next is [exploration](/dist/docs/exploration.md)
+Next is [exploration](/exploration.md)
