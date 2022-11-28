@@ -1,5 +1,5 @@
 # Exploration
-[Design Doc](/dist/docs/designDoc.md) | [Discovery](/dist/docs/discovery.md) | Exploration | [Go to market](/dist/docs/goToMarket.md)
+[Design Doc](/designDoc.md) | [Discovery](/discovery.md) | Exploration | [Go to market](/goToMarket.md)
   
 ---
 ## Ideation
