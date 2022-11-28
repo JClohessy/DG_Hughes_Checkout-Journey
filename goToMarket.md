@@ -1,5 +1,5 @@
 # Go to market
-[Design Doc](/dist/docs/designDoc.md) | [Discovery](/dist/docs/discovery.md) | [Exploration](/dist/docs/exploration.md) | Go to market
+[Design Doc](/designDoc.md) | [Discovery](/discovery.md) | [Exploration](/exploration.md) | Go to market
 
 ---
 ## Deliverables
