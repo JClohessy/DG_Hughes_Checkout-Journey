@@ -78,7 +78,7 @@ Scope your users' needs/problems [like this](https://www.uxpin.com/studio/blog/f
 | BC | 24/11/22 | Trust in the company | The journey reassures the user that D&G is trustworthy |
 | BC | 24/11/22 | Trust that company isn't going to go bust, or is underwritten | The journey makes clear to the user how secure their warranty is |
 |Hughes Assumptive| 24/11/22 | Don't want warranty to interfere with user purchasing desired product | The journey doesn't obstruct the user in their purchase of the desired item(s) |
-|JC| 28/11/22 | How do we stop users closing window after purchase before continuing to warranty | The journey shows the user there is another task to complete after the product purchase |
+|JC| 28/11/22 | How do we stop users closing window after purchase before continuing to warranty | The journey shows the user there is an optional task to complete after the product purchase |
 
 
 ---
