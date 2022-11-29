@@ -24,7 +24,7 @@ Define who will be working on this project and what will they be doing.
 | Name | Current state | Desired state |
 | --- | --- | --- |
 | Customer Insurance Alert | To be designed | Present, and effective, in the user journey |
-| Customer Insurance Purchase | To be designed | Present, and effective, in the user journey |
+| Customer Insurance Purchase Opt-in | To be designed | Present, and effective, in the user journey |
 
 ---
 ## Users & needs/problems
